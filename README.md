@@ -12,9 +12,11 @@
 
 #### 所需环境
 
-Window, Linux，Mac 均可，主要依赖于 Jittor 神经网络框架的安装环境。
+- Window, Linux，Mac 均可，主要依赖于 Jittor 神经网络框架的安装环境。
 
-Jittor 神经网络框架安装详见 [Jittor 官网安装教程](https://cg.cs.tsinghua.edu.cn/jittor/download/)
+- Jittor 神经网络框架安装详见 [Jittor 官网安装教程](https://cg.cs.tsinghua.edu.cn/jittor/download/)
+
+- numpy, Pillow
 
 #### 文件说明
 
